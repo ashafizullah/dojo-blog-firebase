@@ -1,0 +1,43 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Welcome to the new blog",
+      "body": "lorem ipsum",
+      "tags": [
+        "webdev",
+        "coding",
+        "news"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Top 4 CSS Tips",
+      "body": "lorem ipsum",
+      "tags": [
+        "css",
+        "webdev",
+        "coding"
+      ]
+    },
+    {
+      "title": "tes",
+      "body": "asdasdas",
+      "tags": [
+        "tm",
+        "asd",
+        "sa",
+        "ad"
+      ],
+      "id": 3
+    },
+    {
+      "title": "a",
+      "body": "a",
+      "tags": [
+        "a"
+      ],
+      "id": 4
+    }
+  ]
+}
